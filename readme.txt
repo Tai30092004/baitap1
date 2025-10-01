@@ -1,1 +1,2 @@
-This is practise
+Đây là read me dc sửa từ nhánh conflict-demo
+
